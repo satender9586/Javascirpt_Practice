@@ -4,13 +4,6 @@
     1. Variable
     4. declaration and initialization and reassigned
     5. var, let, const
-    6. Primitive and Non-Primitive Data Types
-    7. typeof operator
-    8. NaN and Infinity
-    9. null and undefined
-    10. BigInt and Symbol
-    11. Object and Array
-    12. String, Number, Boolean, Object, Array, Function, Date, RegExp, Error,
 */
 
 // *********************Variable*********************************
